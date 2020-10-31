@@ -24,9 +24,9 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de clientes
   - Listagem de clientes por Id
 
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
 
 
   <br />
@@ -36,21 +36,22 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de produtos
   - Listagem de produtos por Id
 
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
 
 
 
+  <br />
   <br />
 
 ### Compras
   - Cadastro de compras
   - Listagem de clientes por Id
 
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
 
 
 
