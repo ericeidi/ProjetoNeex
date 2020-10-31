@@ -6,7 +6,7 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
 
 - Diagrama de Classes
 
-  ![picture](img/class-diagram.png)
+  ![picture](imgs/class-diagram.png)
 
 - Tecnologias utilizadas
   - Typescript
@@ -22,6 +22,7 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de clientes
   - Listagem de clientes por Id
 
+  <img align="left" alt="clientes" width="100px" src="imgs/class-diagram.png" />
 
 - Produtos
   - Cadastro de produtos
