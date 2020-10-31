@@ -17,17 +17,25 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Express
   - Cors
 
+<hr>
+
 - Clientes
   - Cadastro de clientes
   - Listagem de clientes
   - Listagem de clientes por Id
 
-  <img align="left" alt="clientes" width="100px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
+  <img align="left" alt="clientes" width="200px" src="imgs/class-diagram.png" />
+
+<hr>
 
 - Produtos
   - Cadastro de produtos
   - Listagem de produtos
   - Listagem de produtos por Id
+
+<hr>
 
 - Compras
   - Cadastro de compras
