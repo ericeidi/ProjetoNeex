@@ -24,9 +24,9 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de clientes
   - Listagem de clientes por Id
 
-  ![picture](imgs/class-diagram.png)
-  ![picture](imgs/class-diagram.png)
-  ![picture](imgs/class-diagram.png)
+  ![picture](imgs/customer-post.png)
+  ![picture](imgs/customer-get.png)
+  ![picture](imgs/customer-getbyid.png)
 
 
   <br />
@@ -36,22 +36,32 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de produtos
   - Listagem de produtos por Id
 
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  ![picture](imgs/products-post.png)
+  ![picture](imgs/products-get.png)
+  ![picture](imgs/products-getbyid.png)
 
 
 
   <br />
   <br />
+
+<hr>
 
 ### Compras
   - Cadastro de compras
   - Listagem de clientes por Id
+  - Subtração da quantidade de produto ao realizar uma compra
+  - Validação de erro ao não encontrar Id do cliente
+  - Validação de erro ao não encontrar Id do produto
+  - Validação de erro ao não possuir quantidade de produto
 
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+
+  ![picture](imgs/orders-post.png)
+  ![picture](imgs/orders-getbyid.png)
+  ![picture](imgs/product-subtract.png)
+  ![picture](imgs/error-customer-id.png)
+  ![picture](imgs/error-productid.png)
+  ![picture](imgs/error-productgreaterlength.png)
 
 
 
