@@ -24,9 +24,9 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de clientes
   - Listagem de clientes por Id
 
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
-  <img align="left" alt="clientes" width="400px" src="imgs/class-diagram.png" />
+  ![picture](imgs/class-diagram.png)
+  ![picture](imgs/class-diagram.png)
+  ![picture](imgs/class-diagram.png)
 
 
   <br />
