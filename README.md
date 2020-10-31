@@ -20,13 +20,13 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
 <hr>
 
 ### Clientes
-  - Cadastro de clientes
 
-  ![picture](imgs/customer-post.PNG)
   - Listagem de clientes
   ![picture](imgs/customer-get.PNG)
   - Listagem de clientes por Id
   ![picture](imgs/customer-getbyid.PNG)
+  - Cadastro de clientes
+  ![picture](imgs/customer-post.PNG)
 
 
 
