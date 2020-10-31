@@ -21,24 +21,30 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
 
 ### Clientes
   - Cadastro de clientes
-  - Listagem de clientes
-  - Listagem de clientes por Id
-
   ![picture](imgs/customer-post.PNG)
+  - Listagem de clientes
   ![picture](imgs/customer-get.PNG)
+  - Listagem de clientes por Id
   ![picture](imgs/customer-getbyid.PNG)
+
+
+
 
 
   <br />
 
+  <hr>
+
 ### Produtos
   - Cadastro de produtos
-  - Listagem de produtos
-  - Listagem de produtos por Id
-
   ![picture](imgs/products-post.PNG)
+  - Listagem de produtos
   ![picture](imgs/products-get.PNG)
+  - Listagem de produtos por Id
   ![picture](imgs/products-getbyid.PNG)
+
+
+
 
 
 
@@ -49,19 +55,24 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
 
 ### Compras
   - Cadastro de compras
-  - Listagem de clientes por Id
-  - Subtração da quantidade de produto ao realizar uma compra
-  - Validação de erro ao não encontrar Id do cliente
-  - Validação de erro ao não encontrar Id do produto
-  - Validação de erro ao não possuir quantidade de produto
-
-
   ![picture](imgs/orders-post.PNG)
+  - Listagem de clientes por Id
   ![picture](imgs/orders-getbyid.PNG)
+  - Subtração da quantidade de produto ao realizar uma compra
   ![picture](imgs/product-subtract.PNG)
+  - Validação de erro ao não encontrar Id do cliente
   ![picture](imgs/error-customer-id.PNG)
+  - Validação de erro ao não encontrar Id do produto
   ![picture](imgs/error-productid.PNG)
+  - Validação de erro ao não possuir quantidade de produto
   ![picture](imgs/error-productgreaterlength.PNG)
+
+
+
+
+
+
+
 
 
 
