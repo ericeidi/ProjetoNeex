@@ -1,14 +1,14 @@
-# Projeto Neex 🔨
+### Projeto Neex 🔨
 
 <hr>
 
 Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no qual se cria funcionalidades para clientes, produtos e compras.
 
-- Diagrama de Classes
+### Diagrama de Classes
 
   ![picture](imgs/class-diagram.png)
 
-- Tecnologias utilizadas
+### Tecnologias utilizadas
   - Typescript
   - NodeJS
   - PostgreSQL
@@ -19,7 +19,7 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
 
 <hr>
 
-- Clientes
+### Clientes
   - Cadastro de clientes
   - Listagem de clientes
   - Listagem de clientes por Id
@@ -30,9 +30,8 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   <br />
   <br />
 
-<hr>
 
-- Produtos
+### Produtos
   - Cadastro de produtos
   - Listagem de produtos
   - Listagem de produtos por Id
@@ -45,7 +44,7 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
 
 <hr>
 
-- Compras
+### Compras
   - Cadastro de compras
   - Listagem de clientes por Id
 
