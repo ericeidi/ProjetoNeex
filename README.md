@@ -24,9 +24,9 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de clientes
   - Listagem de clientes por Id
 
-  ![picture](imgs/customer-post.png)
-  ![picture](imgs/customer-get.png)
-  ![picture](imgs/customer-getbyid.png)
+  ![picture](imgs/customer-post.PNG)
+  ![picture](imgs/customer-get.PNG)
+  ![picture](imgs/customer-getbyid.PNG)
 
 
   <br />
@@ -36,9 +36,9 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Listagem de produtos
   - Listagem de produtos por Id
 
-  ![picture](imgs/products-post.png)
-  ![picture](imgs/products-get.png)
-  ![picture](imgs/products-getbyid.png)
+  ![picture](imgs/products-post.PNG)
+  ![picture](imgs/products-get.PNG)
+  ![picture](imgs/products-getbyid.PNG)
 
 
 
@@ -56,12 +56,12 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Validação de erro ao não possuir quantidade de produto
 
 
-  ![picture](imgs/orders-post.png)
-  ![picture](imgs/orders-getbyid.png)
-  ![picture](imgs/product-subtract.png)
-  ![picture](imgs/error-customer-id.png)
-  ![picture](imgs/error-productid.png)
-  ![picture](imgs/error-productgreaterlength.png)
+  ![picture](imgs/orders-post.PNG)
+  ![picture](imgs/orders-getbyid.PNG)
+  ![picture](imgs/product-subtract.PNG)
+  ![picture](imgs/error-customer-id.PNG)
+  ![picture](imgs/error-productid.PNG)
+  ![picture](imgs/error-productgreaterlength.PNG)
 
 
 
