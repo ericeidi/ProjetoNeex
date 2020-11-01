@@ -16,6 +16,11 @@ Projeto desenvolvido com a finalidade de criar uma API REST de um ecommerce no q
   - Tsyringe
   - Express
   - Cors
+  - Docker
+  - Beekeeper
+
+### Padrão de projeto
+  - Domain Driven Development
 
 <hr>
 
